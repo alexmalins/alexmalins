@@ -2,9 +2,9 @@
 
 ## Hi there 👋, I'm Alex Malins
 
-- 🧪 I am a Research Scientist  in JAEA's [Computer Science division](https://ccse.jaea.go.jp/index_eng.html)
+- 🧪 I am a Data Scientist with [Kraken Technologies Japan](https://kraken.tech/)
 
-- ⌨️ Codes I have worked on include [radioactivedecay](https://github.com/radioactivedecay/radioactivedecay), [PHITS](https://phits.jaea.go.jp/), and the [TCC](https://github.com/royallgroup/TCC)
+- ⌨️ Previous codes I have worked on include [radioactivedecay](https://github.com/radioactivedecay/radioactivedecay), [PHITS](https://phits.jaea.go.jp/), and the [TCC](https://github.com/royallgroup/TCC)
 
 - 👨‍💻 All of my projects are listed at [alexmalins.com/projects](https://alexmalins.com/projects)
 
