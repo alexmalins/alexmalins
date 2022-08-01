@@ -2,7 +2,7 @@
 
 ## Hi there 👋, I'm Alex Malins
 
-- 🧪 I am a Data Scientist with [Kraken Technologies Japan](https://kraken.tech/)
+- 📊 I am a Data Scientist with [Kraken Technologies Japan](https://kraken.tech/)
 
 - ⌨️ Previous codes I have worked on include [radioactivedecay](https://github.com/radioactivedecay/radioactivedecay), [PHITS](https://phits.jaea.go.jp/), and the [TCC](https://github.com/royallgroup/TCC)
 
