@@ -2,9 +2,9 @@
 
 ## Hi there 👋, I'm Alex Malins
 
-- 📊 I am a Data Scientist with [Kraken Technologies Japan](https://kraken.tech/)
+- 📊 I am a Data Team Lead at [Kraken Technologies (Octopus Energy) Japan](https://kraken.tech/)
 
-- ⌨️ Previous codes I have worked on include [radioactivedecay](https://github.com/radioactivedecay/radioactivedecay), [PHITS](https://phits.jaea.go.jp/), and the [TCC](https://github.com/royallgroup/TCC)
+- ⌨️ Projects I have worked on include [harlequin-databricks](https://github.com/alexmalins/harlequin-databricks), [radioactivedecay](https://github.com/radioactivedecay/radioactivedecay), [PHITS](https://phits.jaea.go.jp/), and the [TCC](https://github.com/royallgroup/TCC)
 
 - 👨‍💻 All of my projects are listed at [alexmalins.com/projects](https://alexmalins.com/projects)
 
@@ -12,7 +12,7 @@
 
 - 🎓 I did a PhD in computational physics at the [University of Bristol](https://www.bristol.ac.uk/)
 
-- 💬 Ask me about: environmental & health physics, research software
+- 💬 Ask me about: data science & analytics, the Python scientific stack, environmental & health physics
 
 ### Connect with me elsewhere:
 <a href="https://linkedin.com/in/alexmalins" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexmalins" height="30" width="40" /></a>
