@@ -2,7 +2,7 @@
 
 ## Hi there 👋, I'm Alex Malins
 
-- 📊 I am a Data Team Lead at [Kraken Technologies (Octopus Energy) Japan](https://kraken.tech/)
+- 📊 I am the Head of the Data Team at [Kraken Technologies (Octopus Energy) Japan](https://kraken.tech/)
 
 - ⌨️ Projects I have worked on include [harlequin-databricks](https://github.com/alexmalins/harlequin-databricks), [radioactivedecay](https://github.com/radioactivedecay/radioactivedecay), [PHITS](https://phits.jaea.go.jp/), and the [TCC](https://github.com/royallgroup/TCC)
 
